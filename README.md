@@ -4,7 +4,7 @@
 Users will input and rate a list of five "food trucks". They will then have the option to select options from a menu allowing them to view, all of the food trucks and their information, the average rating of the food trucks inputed,  and the highest-rated truck.
 
 ## Motivation
-My motivation to complete this project was fueled by the fact that I wanted to apply the Object Oriented Programming Fundamentals that I have been learning to an actual project.
+My motivation to complete this project was fueled by the fact that I wanted to apply the Object Oriented Programming Fundamentals that I have been learning to an actual project. I also was interested to see how I could make a low level Yelp style application.
 
 ## Technologies Used
 -Java
