@@ -6,8 +6,8 @@ public class FoodTruckApp {
 
 	//Setting the max number of trucks to be entered by user at 5
 	//trucks will go into an array with a predetermined size
-	private static final int MAX_TRUCKS = 5;
-	FoodTruck[] trucks = new FoodTruck[MAX_TRUCKS];
+	private static final int maxTrucks = 5;
+	FoodTruck[] trucks = new FoodTruck[maxTrucks];
 	private int count = 0;
 
 	public static void main(String[] args) {
